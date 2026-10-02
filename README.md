@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Yahya 👋
+I'm a high school student interested in Computer Science and Programming.
+Right now, I'm learning Python and working on small projects to practice what I learn and get better.
 
-<!--
-**yaahyaa06/yaahyaa06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+📊 Grade Analyzer - Python program for analyzing grades.
+💰 Expense Tracker - Python program for tracking expenses and managing a monthly budget.
 
-Here are some ideas to get you started:
+## What I'm learning
+- Python
+- Programming fundamentals
+- Problem solving
+- Computer sciece
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What's next
+I'm planning to keep learning more about computer science and explore areas such as AI and software development 
