@@ -4,6 +4,7 @@ Right now, I'm learning Python and working on small projects to practice what I 
 
 ## Projects
 📊 Grade Analyzer - Python program for analyzing grades.
+
 💰 Expense Tracker - Python program for tracking expenses and managing a monthly budget.
 
 ## What I'm learning
