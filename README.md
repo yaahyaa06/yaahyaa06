@@ -3,6 +3,8 @@ I'm a high school student interested in Computer Science and Programming.
 Right now, I'm learning Python and working on small projects to practice what I learn and get better.
 
 ## Projects
+🧠 Python Quiz - CS50P Final Project : a multiple choice quiz
+
 📊 Grade Analyzer - Python program for analyzing grades.
 
 💰 Expense Tracker - Python program for tracking expenses and managing a monthly budget.
